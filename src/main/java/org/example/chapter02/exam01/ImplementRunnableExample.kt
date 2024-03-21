@@ -1,4 +1,4 @@
-package org.example.chapter02
+package org.example.chapter02.exam01
 
 fun main() {
     Thread(MyRunnable()).start()
